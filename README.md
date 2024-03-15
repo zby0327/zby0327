@@ -2,7 +2,7 @@
 
 My name is zby0327 (he/him), and I would be happy if you use my CP handles (who knows my other ones?) instead of my formal name. *If an email or message begins with my formal name, something tricky will happen.* **But, Who cares?** They never use GitHub. 
 
-If you refer to me as my preferred pronouns, I will be happy. But nothing will happen if you do not. If you do not, that's fine. I will not punch you or kill you. 
+If you refer to me as my preferred pronouns, I will be happy. But nothing will happen if you do not. I will not punch you or kill you. 
 
 <!--
 **zby0327/zby0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
