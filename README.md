@@ -1,3 +1,7 @@
+# 这是一只什么也不会的菜鸡的GitHub主页
+
+## 虽然啥都会一点，但是也只是会一点了
+
 ### Hi there 👋
 
 My name is zby0327 (he/him), and I would be happy if you use my CP handles (who knows my other ones?) instead of my formal name. *If an email or message begins with my formal name, something tricky will happen.* **But, Who cares?** They never use GitHub. 
