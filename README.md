@@ -2,6 +2,8 @@
 
 My name is zby0327 (he/him). 
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zby0327)](https://github.com/anuraghazra/github-readme-stats)
+
 Myself👇
 
 ![image](https://github.com/zby0327/zby0327/assets/43291744/d656c2b2-3737-44a6-a45f-1f5897d38d0b)
